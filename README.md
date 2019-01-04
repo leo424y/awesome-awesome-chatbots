@@ -6,4 +6,4 @@ Awesome list of repositories of awesome chatbot lists 🤷
 
 * [fendouai/Awesome-Chatbot](https://github.com/fendouai/Awesome-Chatbot)
 
-* [awesome-chatbots](https://github.com/JStumpp/awesome-chatbots)
+* [JStumpp/awesome-chatbots](https://github.com/JStumpp/awesome-chatbots)
